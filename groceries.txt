@@ -1,2 +1,5 @@
 eggs
 ketchup
+celery
+tomato juice
+champagne
